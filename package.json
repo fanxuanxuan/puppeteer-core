@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fxx",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sparticuz/chromium": "^133.0.0",
+    "puppeteer-core": "^13.7.0"
+  }
+}

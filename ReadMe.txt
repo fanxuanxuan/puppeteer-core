@@ -1,0 +1,1 @@
+该项目为用于检测免费云端服务器（一般为Linux）是否可用puppeteer-core
